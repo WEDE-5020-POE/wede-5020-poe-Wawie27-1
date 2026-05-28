@@ -9,9 +9,7 @@ Features include responsive layouts, external stylesheet, and media queries for 
 - Implemented responsive design using media queries for tablet and mobile breakpoints
 - Changed layout to use CSS Grid and Flexbox for better structure
 - Updated typography and spacing using relative units `rem` and `%`
-- Added hover effects and improved visual styling
-- [Add your change 1 from Part 1 feedback]
-- [Add your change 2 from Part 1 feedback]
+- Added hover effects and improved visual
 
 ## References
 - MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/CSS
