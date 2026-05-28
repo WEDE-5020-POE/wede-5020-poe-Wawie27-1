@@ -1,5 +1,4 @@
 i# My Website Screenshots
-
-![Desktop](desktop.png)
-![Tablet](tablet.png)
-![Mobile](mobile.png)
+![Desktop](desktop.png.JPG)
+![Tablet](tablet.png.JPG)
+![Mobile](mobile.png.JPG)
