@@ -14,7 +14,7 @@ Features include responsive layouts, external stylesheet, and media queries for 
 ## References
 - MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/CSS
 - W3Schools: https://www.w3schools.com/css/
-- [Add any other sites you used]
+  
 
 ## My Website Screenshots
 ![Desktop View](desktop.png.JPG)
